@@ -38,3 +38,20 @@ Then install all requirements
 ```bash
 pip install -r requirements.txt
 ```
+
+
+Change ./config.py cloud configuration
+```
+credential = service_account.Credentials.from_service_account_file('your_credential.json')
+
+project_id = 'your_project_id'
+
+client = bigquery.Client(credentials=credential,project=project_id)
+
+project_name = 'your_project_name'
+
+location = 'US'
+
+bucket_name = 'your_bucket_name'
+
+```
