@@ -48,13 +48,19 @@ Enable the API.
 <img width="564" alt="Screen Shot 2021-04-22 at 19 54 52" src="https://user-images.githubusercontent.com/22974798/115717793-ba454d00-a3a4-11eb-85d3-f12b790d6ee2.png">
 </p>
 
-
-<br>
-
 Create dataset on Google BigQuery<br>
 <p align="center">
 <img width="1422" alt="Screen Shot 2021-04-22 at 13 03 34" src="https://user-images.githubusercontent.com/22974798/115663892-58b4bc80-a36b-11eb-8aae-addaaed1aded.png">
 </p>
+
+Run
+``` 
+python main.py
+```
+*Table Created!*
+<br>
+<br>
+
 
 ## Google Cloud Platform Setup
 Things that you need to set up are:
@@ -82,7 +88,6 @@ Apache Airflow is a platform to programmatically (using Python) author, schedule
   <img width="1440" alt="Screen Shot 2021-04-25 at 20 47 59" src="https://user-images.githubusercontent.com/22974798/115995951-92a1ef00-a607-11eb-8c14-a40e72e75638.png">
 <i>Airflow home UI</i>
 </p>
-<br>
 
 ### Writing the Airflow's DAGs
 
@@ -91,7 +96,6 @@ Apache Airflow is a platform to programmatically (using Python) author, schedule
 3.  Instantiate a DAG Tasks
 4.  Setting up Dependencies
 
-<br>
 <br>
 
 ## Batch Processing Cases
@@ -117,6 +121,11 @@ Check the task status on Airflow Web UI by clicking this:<br>
 </p>
 
   2.  Result:
+
+<p align="center">
+     <img width="1414" alt="Screen Shot 2021-04-25 at 21 28 08" src="https://user-images.githubusercontent.com/22974798/115998729-db12da00-a612-11eb-8550-e4a543f37ce4.png">
+
+</p>
 <p align="center">
 <img width="545" alt="Screen Shot 2021-04-25 at 21 18 12" src="https://user-images.githubusercontent.com/22974798/115997035-ce3eb800-a60b-11eb-8641-c6687f57c7d4.png">
 </p>
