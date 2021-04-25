@@ -41,8 +41,12 @@ project_name = 'your_project_name'
 ```
 
 
-<br>
-<br>
+
+Enable the API.
+
+<p align="center">
+<img width="564" alt="Screen Shot 2021-04-22 at 19 54 52" src="https://user-images.githubusercontent.com/22974798/115717793-ba454d00-a3a4-11eb-85d3-f12b790d6ee2.png">
+</p>
 
 
 <br>
@@ -53,16 +57,6 @@ Set location, choose `US` for example<br>
 
 <img width="1422" alt="Screen Shot 2021-04-22 at 13 03 34" src="https://user-images.githubusercontent.com/22974798/115663892-58b4bc80-a36b-11eb-8aae-addaaed1aded.png">
 
-
-
-
-
-
-
-First of all, we need to enable the API.
-
-
-<img width="564" alt="Screen Shot 2021-04-22 at 19 54 52" src="https://user-images.githubusercontent.com/22974798/115717793-ba454d00-a3a4-11eb-85d3-f12b790d6ee2.png">
 
 ## Google Cloud Platform Setup
 Things that you need to set up are:
