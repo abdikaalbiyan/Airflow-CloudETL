@@ -1,19 +1,16 @@
 # Cloud ETL On Google Cloud Platform
 
 
+## Prequisite
+
+> Python 3.7.3
+
+
 ## Installation
 
 Use git to clone this repository
 
 ```git clone https://github.com/abdikaalbiyan/Cloud-ETL.git```
-
-## Prequisite
-
-> Python 3.7.3
-
-To run the script in this repository, you need to install the prerequisite library from requirements.txt
-
-> pip install -r requirements.txt
 
 Create virtualenv *(named venv or etc, up to you)*.
 ```bash
@@ -31,7 +28,7 @@ pip install -r requirements.txt
 ```
 
 
-Change ./config.py cloud configuration
+Change ./config.py for cloud configuration
 ```
 credential = service_account.Credentials.from_service_account_file('your_credential.json')
 
