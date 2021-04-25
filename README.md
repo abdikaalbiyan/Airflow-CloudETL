@@ -52,11 +52,9 @@ Enable the API.
 <br>
 
 Create dataset on Google BigQuery<br>
-Set dataset id, let say `search_history`<br>
-Set location, choose `US` for example<br>
-
+<p align="center">
 <img width="1422" alt="Screen Shot 2021-04-22 at 13 03 34" src="https://user-images.githubusercontent.com/22974798/115663892-58b4bc80-a36b-11eb-8aae-addaaed1aded.png">
-
+</p>
 
 ## Google Cloud Platform Setup
 Things that you need to set up are:
