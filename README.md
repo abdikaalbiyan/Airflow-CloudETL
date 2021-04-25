@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 
 
-Change ./config.py for cloud configuration
+Change ./config.py for accesing the cloud
 ```
 credential = service_account.Credentials.from_service_account_file('your_credential.json')
 
