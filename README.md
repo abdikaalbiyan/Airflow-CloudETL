@@ -3,17 +3,17 @@
 
 ## Installation
 
+Use git to clone this repository
 
+```git clone https://github.com/abdikaalbiyan/Cloud-ETL.git```
 
-<br>
+## Prequisite
 
-Create dataset on Google BigQuery<br>
-Set dataset id, let say `search_history`<br>
-Set location, choose `US` for example<br>
+> Python 3.7.3
 
-<img width="1422" alt="Screen Shot 2021-04-22 at 13 03 34" src="https://user-images.githubusercontent.com/22974798/115663892-58b4bc80-a36b-11eb-8aae-addaaed1aded.png">
+To run the script in this repository, you need to install the prerequisite library from requirements.txt
 
-
+> pip install -r requirements.txt
 
 Create virtualenv *(named venv or etc, up to you)*.
 ```bash
@@ -46,6 +46,17 @@ project_name = 'your_project_name'
 
 <br>
 <br>
+
+
+<br>
+
+Create dataset on Google BigQuery<br>
+Set dataset id, let say `search_history`<br>
+Set location, choose `US` for example<br>
+
+<img width="1422" alt="Screen Shot 2021-04-22 at 13 03 34" src="https://user-images.githubusercontent.com/22974798/115663892-58b4bc80-a36b-11eb-8aae-addaaed1aded.png">
+
+
 
 
 
