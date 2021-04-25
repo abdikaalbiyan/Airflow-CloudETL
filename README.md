@@ -50,8 +50,4 @@ client = bigquery.Client(credentials=credential,project=project_id)
 
 project_name = 'your_project_name'
 
-location = 'US'
-
-bucket_name = 'your_bucket_name'
-
 ```
