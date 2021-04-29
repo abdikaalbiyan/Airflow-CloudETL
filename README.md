@@ -1,5 +1,9 @@
 # Cloud ETL On Google Cloud Platform
 
+<p align="center">
+     <img width="681" alt="Screen Shot 2021-04-29 at 12 14 55" src="https://user-images.githubusercontent.com/22974798/116505433-10564b00-a8e5-11eb-8f29-051d026f58ae.png">
+</p>
+
 
 ## Prequisite
 
